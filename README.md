@@ -3,4 +3,4 @@ This project tackles the unpaired image-to-image translation task of transformin
 
 The workflow begins with exploratory data analysis of the Monet and photo datasets, then builds TensorFlow input pipelines and trains the base CycleGAN while tracking generator and discriminator losses, per-epoch image snapshots, and best checkpoints. Next, we run targeted hyperparameter sweeps to select stable learning rates and optimizer settings, evaluate model quality with FID/MiFID metrics, and finally compare the base system against Least Squares, Hinge, and Wasserstein GAN variants to understand how different adversarial objectives impact style realism and content preservation.
 
-The project report is: Monet-GAN.pdf
+The project report is: **Monet-GAN.pdf**
