@@ -5,4 +5,4 @@ The workflow begins with exploratory data analysis of the Monet and photo datase
 
 ---
 
-**Note: I could not save the monet-gan.ipynb to GitHub after it had been fully ran because the file was too big. Please download the  pdf file Monet-GAN.pdf to see the entire report in its original format.**
+**Note: I could not save the monet-gan.ipynb to GitHub after it had been fully ran because the file was too big, so the monet-gan.ipynb only contains code without the visualizations. Please download the pdf file Monet-GAN.pdf to view the entire report in its original format with visualizations .**
